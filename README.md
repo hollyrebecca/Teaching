@@ -1,2 +1,2 @@
 # Teaching
-A repository of teaching materials and projects
+A repository of pythonteaching materials and projects
